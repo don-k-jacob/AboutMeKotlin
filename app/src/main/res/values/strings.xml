@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMeKotlin</string>
+    <string name="name">Don Kora Jacob</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_txt">hi my name is , \n\n i love coding \n\n 🔭 I’m currently working on Mobile Applications at @innovationincubatoradvisory\n\n
+🌱 I’m currently mastering Kotlin, Flutter and  Dart\n\n
+👯 I’m looking to collaborate on Cool Projects/Products\n\n
+🤔 I’m looking for help with Backend and Dashboard\n\n
+💬 Ask me about anything.\n\n
+📫 How to reach me:</string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+</resources>
